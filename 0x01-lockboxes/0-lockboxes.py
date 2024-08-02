@@ -1,3 +1,8 @@
+#!/usr/bin/python3
+"""Defines a function that determines if a box containing a list
+   of lists can be opened using keys
+"""
+
 def canUnlockAll(boxes):
     """
     Détermine si toutes les boîtes peuvent être ouvertes.
