@@ -3,6 +3,7 @@
    of lists can be opened using keys
 """
 
+
 def canUnlockAll(boxes):
     """
     Détermine si toutes les boîtes peuvent être ouvertes.
